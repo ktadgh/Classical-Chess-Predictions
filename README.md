@@ -5,3 +5,14 @@ than the ELO alone.
 ## Future work
 Next, I want to use the pgn2data package and stockfish to analyze games and see how centipawn loss, number of blunders and 
 other game data can predict the game winner, and assessing whether there are trends in performance metrics like these.
+
+## Contents
+├───Classical Project.ipynb
+├───Database.ipynb
+├───moves_process.py
+├───process.py
+├───README.md
+├───csvs
+├───pgns
+├───pgn2data
+├───stockfish_15_win_x64_avx2

@@ -1,1 +1,0 @@
-# This folder has samples of the output from using the library to convert the PGN to csv files

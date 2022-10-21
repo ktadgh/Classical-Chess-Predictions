@@ -10,7 +10,7 @@ than the ELO alone.
 ├───README.md\
 ├───csvs\
 ├───pgns\
-├───pgn2data\
+├───pgn2data - *I used a slightly edited version of pgn2data*
 ├───stockfish_15_win_x64_avx2 - *engine used for the evaluations*
 
 ## Future work

@@ -1,6 +1,6 @@
 # Chessnet: Predicting chess results and ELO ratings based on PGN data
 ![Screenshot](https://github.com/ktadgh/Classical-Chess-Predictions/blob/744a6e52eef36ff2d63f2511ab5945c51104f5c3/images/b6.png)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
 The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
 than the ELO alone.

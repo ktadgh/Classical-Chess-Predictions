@@ -1,4 +1,5 @@
 # Classical Chess Predictions
+![Screenshot](bin1.png)
 Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
 The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
 than the ELO alone.

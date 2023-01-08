@@ -7,6 +7,8 @@ Using logistic regression to predict the result of a chess game based on the pla
 The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
 than the ELO alone.
 
+## Neural Network
+Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game.
 
 ## Contents
 ├───Classical Project.ipynb - *Notebook containing the analysis and model*\
@@ -19,6 +21,3 @@ than the ELO alone.
 ├───pgn2data - *I used a slightly edited version of pgn2data*\
 ├───stockfish_15_win_x64_avx2 - *engine used for the evaluations*
 
-## Future work
-Next, I want to use the pgn2data package and stockfish to analyze games and see how centipawn loss, number of blunders and 
-other game data can predict the game winner, and assessing whether there are trends in performance metrics like these.

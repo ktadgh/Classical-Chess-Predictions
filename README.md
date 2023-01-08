@@ -1,5 +1,5 @@
 # Classical Chess Predictions
-![Screenshot](https://raw.githubusercontent.com/ktadgh/Classical-Chess-Predictions/blob/744a6e52eef36ff2d63f2511ab5945c51104f5c3/images/b6.png)
+![Screenshot](https://github.com/ktadgh/Classical-Chess-Predictions/blob/744a6e52eef36ff2d63f2511ab5945c51104f5c3/images/b6.png)
 Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
 The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
 than the ELO alone.

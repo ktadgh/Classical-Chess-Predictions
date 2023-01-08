@@ -8,7 +8,7 @@ The regression model predicts wins, losses and draws, and overall can predict th
 than the ELO alone.
 
 ## Neural Network
-Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game.
+Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game. 
 
 ## Contents
 ├───Classical Project.ipynb - *Notebook containing the analysis and model*\

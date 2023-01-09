@@ -8,8 +8,8 @@ The regression model returns a predicted probability of a win, loss and draw, an
 than the ELO alone.
 
 <p float="left">
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="300" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="300" height="320" />
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="325" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="325" height="300" />
  </p>
 
 ## Neural Network

@@ -1,12 +1,14 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 # Chessnet: Predicting chess results and ELO ratings based on PGN data
 ![Screenshot](https://github.com/ktadgh/Classical-Chess-Predictions/blob/744a6e52eef36ff2d63f2511ab5945c51104f5c3/images/b6.png)
-<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/ELO_acc.png width="100" height="100">
 
 ## Classical Project
 Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
 The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
 than the ELO alone.
+
+<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/ELO_acc.png width="150" height="150">
+<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/Model_acc.png width="150" height="150">
 
 ## Neural Network
 Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game. 

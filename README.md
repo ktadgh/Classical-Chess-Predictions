@@ -9,7 +9,7 @@ than the ELO alone.
 
 <p float="left">
 <img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="350" height="250" />
-<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/Model_acc.png width="350" height="250" />
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="350" height="250" />
  </p>
 
 ## Neural Network

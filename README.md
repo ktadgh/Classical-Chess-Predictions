@@ -4,12 +4,12 @@
 
 ## Classical Project
 Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
-The regression model predicts wins, losses and draws, and overall can predict the expected points more accurately
+The regression model returns a predicted probability of a win, loss and draw, and overall can predict the expected points more accurately
 than the ELO alone.
 
 <p float="left">
-<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/ELO_acc.png width="350" height="250" />
-<img src=https://raw.githubusercontent.com/ktadgh/chessnet/95b58f77cdce18b92bdb4ebc01acc225928e9a6b/images/Model_acc.png width="350" height="250" />
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="477" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="477" height="320" />
  </p>
 
 ## Neural Network

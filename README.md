@@ -22,15 +22,15 @@ Using a Recurrent Neural network to predict a player's ELO rating based on Stock
 
 
 ## Contents
-├───Classical Project.ipynb - *Notebook containing the analysis and model*\
+├───Blitz Project.ipynb - *Notebook containing the analysis and model*\
 ├───Database.ipynb - *The functions used to generate csvs from the pgns* \
 ├───NeuralNet - *Notebook containing the Neural Network* \
 ├───moves_process.py - *Functions to get game performance metrics*\
+├───images - contains the graphs included above\
 ├───process.py - *Generating csv with performance metrics included*\
 ├───README.md\
 ├───csvs\
 ├───pgns\
-├───pgn2data - *I used a slightly edited version of pgn2data*\
 ├───stockfish_15_win_x64_avx2 - *engine used for the evaluations*
 
 

@@ -2,14 +2,14 @@
 # Chessnet: Predicting chess results and ELO ratings based on PGN data
 ![Screenshot](https://github.com/ktadgh/Classical-Chess-Predictions/blob/744a6e52eef36ff2d63f2511ab5945c51104f5c3/images/b6.png)
 
-## Classical Project
-Using logistic regression to predict the result of a chess game based on the players' ELOs and other factors
-The regression model returns a predicted probability of a win, loss and draw, and overall can predict the expected points more accurately
+## Blitz Project
+Using logistic regression to predict the result of a chess game based on the players' ELO ratings and other factors.
+The regression model returns the predicted probability of a win, loss and draw, and overall can predict the expected points more accurately
 than the ELO alone.
 
 <p float="left">
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="476" height="320" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="476" height="320" />
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/ELO_acc.png width="350" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/Model_acc.png width="350" height="300" />
  </p>
 
 ## Neural Network

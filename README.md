@@ -16,8 +16,8 @@ than the ELO alone.
 Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game. Some preliminary results of the model are shown below, compared to a basic linear regression model based on average centipawn loss. 
 
 <p float="left">
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_linreg_acc.png width="350" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_model_acc.png width="350" height="300" />
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_linreg_acc1.png width="350" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_model_acc1.png width="350" height="300" />
  </p>
 
 

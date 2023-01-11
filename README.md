@@ -27,7 +27,6 @@ Using a Recurrent Neural network to predict a player's ELO rating based on Stock
 ├───NeuralNet - *Notebook containing the Neural Network* \
 ├───moves_process.py - *Functions to get game performance metrics*\
 ├───images - contains the graphs included above\
-├───process.py - *Generating csv with performance metrics included*\
 ├───README.md\
 ├───csvs\
 ├───pgns\

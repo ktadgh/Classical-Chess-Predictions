@@ -13,7 +13,13 @@ than the ELO alone.
  </p>
 
 ## Neural Network
-Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game. 
+Using a Recurrent Neural network to predict a player's ELO rating based on Stockfish's evaluation of a single game. Some preliminary results of the model are shown below.
+
+<p float="left">
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_linreg_acc.png width="350" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_model_acc.png width="350" height="300" />
+ </p>
+
 
 ## Contents
 ├───Classical Project.ipynb - *Notebook containing the analysis and model*\

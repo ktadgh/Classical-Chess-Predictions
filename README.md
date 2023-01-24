@@ -13,7 +13,7 @@ than the ELO alone.
  </p>
 
 ## Neural Network
-Using a Recurrent Neural network (LSTM) to predict a player's ELO rating based on Stockfish's evaluation of a single game. Some preliminary results of the model are shown below, compared to a basic linear regression model based on average centipawn loss. So far training has been constrained by my database of evaluated games, it may show better results when given a better dataset. The model is currently making predictions only slightly more accurately than the linear regression model, based on a dataset of under 900 games (so far). However, the linear regression model doesn't perform as well as expected, so a new baseline model may be needed.
+Using a Recurrent Neural network (LSTM) to predict a player's ELO rating based on Stockfish's evaluation of a single game and time spent per move. Results of the model are shown below, compared to a basic linear regression model based on average centipawn loss. The model appears to be outperforming the average centipawn loss model in mean squared error, and also predicts a wider range of values. 
 
 <p float="left">
 <img src=https://github.com/ktadgh/chessnet/blob/main/images/NN_linreg_acc1.png width="350" height="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

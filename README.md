@@ -26,7 +26,7 @@ Using a Recurrent Neural network (LSTM) to predict a player's ELO rating based o
 ├───Database.ipynb - *The functions used to generate csvs from the pgns* \
 ├───NeuralNet - *Notebook containing the Neural Network* \
 ├───moves_process.py - *Functions to get game performance metrics*\
-├───images - contains the graphs included above\
+├───images - *Contains the graphs included above*\
 ├───README.md\
 ├───csvs\
 ├───pgns\

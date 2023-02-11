@@ -22,7 +22,7 @@ Using a Recurrent Neural network (LSTM) to predict a player's ELO rating based o
 
 
 ## Contents
-├───Blitz Project.ipynb - *Notebook containing the analysis and model*\
+├───Blitz Project.ipynb - *Notebook containing the analysis and logistic regression model*\
 ├───Database.ipynb - *The functions used to generate csvs from the pgns* \
 ├───NeuralNet - *Notebook containing the Neural Network* \
 ├───moves_process.py - *Functions to get game performance metrics*\
